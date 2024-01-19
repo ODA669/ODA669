@@ -13,7 +13,7 @@ Software Engineer with a pragmatic approach and a strategic vision. Specialized 
 💻 #MachineLanguageEngineer #CodeLinguist"
 📜💻 #CodeChronicler #ProgrammingScribe"
 📊💻 #DataOrchestraConductor #CodeHarmonizer"
-
+💻   #ComputerScience
 
 
 <!--
