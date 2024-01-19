@@ -1,9 +1,7 @@
 ### Hi there 👋
+Creative Binary Mind: Venturing into uncharted territories on the frontend and mastering challenges on the backend. Every line of code is an adventure.
 
-Creative Binary Mind
-exploring new horizons on the frontend and conquering challenges on the backend. Every line of code is an adventure
-
-Ingeniero de Software con enfoque pragmático y visión estratégica. Especializado en el diseño y desarrollo de sistemas complejos, desde el meticuloso frontend hasta el resiliente backend. Mi compromiso con la calidad y la eficiencia se refleja en cada línea de código. A través de un enfoque metódico, transformo desafíos en soluciones sólidas y sostenibles. Explora la esencia de mi trabajo, donde la innovación y la disciplina convergen en la búsqueda de la excelencia técnica. 
+Software Engineer with a pragmatic approach and a strategic vision. Specialized in the design and development of complex systems, from the meticulous frontend to the resilient backend. My commitment to quality and efficiency is reflected in every line of code. Through a methodical approach, I transform challenges into robust and sustainable solutions. Explore the essence of my work, where innovation and discipline converge in the pursuit of technical excellence.
 
 🏛️💻 #SystemArchitect #TechInnovator"
 💡🛠️ #SoftwareEngineer #StrategicCoder
