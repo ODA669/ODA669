@@ -1,17 +1,12 @@
-¡Hello  💻💻✨✨✨! Soy Odair Martinez ✨✨✨💻💻
+¡Hello  💻💻✨✨✨! I'm Odair Martinez ✨✨✨💻💻
 
 
-Creative Binary Mind: Venturing into uncharted territories on the frontend and mastering challenges on the backend. Every line of code is an adventure.
 
 Software Engineer with a pragmatic approach and a strategic vision. Specialized in the design and development of complex systems, from the meticulous frontend to the resilient backend. My commitment to quality and efficiency is reflected in every line of code. Through a methodical approach, I transform challenges into robust and sustainable solutions. Explore the essence of my work, where innovation and discipline converge in the pursuit of technical excellence.
 
-🏛️💻 #SystemArchitect #TechInnovator"
+
 💡🛠️ #SoftwareEngineer #StrategicCoder
-🚧🌐 #BoundaryBreaker #CodeVisionary"
-⚓️🌊 #CodeCaptain #DigitalExplorer"
 🎨💻 #BinaryArtist #CodeInnovator"
-🧙‍♂️✨ #CodeMagician #DigitalCraftsman"
-🖌️💡 #AlgorithmSculptor #CodeCraftsman"
 💻 #MachineLanguageEngineer #CodeLinguist"
 📜💻 #CodeChronicler #ProgrammingScribe"
 📊💻 #DataOrchestraConductor #CodeHarmonizer"
