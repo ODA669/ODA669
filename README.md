@@ -2,7 +2,7 @@
 
 
 
-Software Engineer with a pragmatic approach and a strategic vision. Specialized in the design and development of complex systems, from the meticulous frontend to the resilient backend. My commitment to quality and efficiency is reflected in every line of code. Through a methodical approach, I transform challenges into robust and sustainable solutions. Explore the essence of my work, where innovation and discipline converge in the pursuit of technical excellence.
+Analyst Programmer with a pragmatic approach and a strategic vision. Specialized in the design and development of complex systems, from the meticulous frontend to the resilient backend. My commitment to quality and efficiency is reflected in every line of code. Through a methodical approach, I transform challenges into robust and sustainable solutions. Explore the essence of my work, where innovation and discipline converge in the pursuit of technical excellence.
 
 
 💡🛠️ #SoftwareEngineer #StrategicCoder
