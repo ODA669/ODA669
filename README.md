@@ -1,8 +1,7 @@
 ¡Hello  💻💻✨✨✨! I'm Odair Martinez ✨✨✨💻💻
 
 
-
-Software Developper with a pragmatic approach and a strategic vision. in the design and development , from the frontend to the resilient backend. My commitment to quality and efficiency is reflected in every line of code. Through a methodical approach, I transform challenges into robust and sustainable solutions. Explore the essence of my work, where innovation and discipline converge in the pursuit of technical excellence.
+Formation de programmeur Analyste complétée. 2 ans d’expérience professionnelle. Fortes compétences d’analyse, de résolution de problèmes et de raisonnement logique. J’ai un sens inné de l’adaptabilité, des aptitudes pour la recherche, un sens de la créativité, de la minutie, une attitude positive pour établir de bonnes relations avec les coéquipiers et les collègues, ainsi qu’un intérêt constant pour les nouvelles technologies et pour la formation continue.
 
 
 💡🛠️ #SoftwareEngineer #StrategicCoder
