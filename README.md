@@ -34,6 +34,11 @@ https://portfolioodair.netlify.app
 !
 
 
+## Acknowledgements
+- [Web Development with Python – IBM SkillsBuild](https://www.credly.com/org/ibm-skillsbuild/badge/web-development-with-python)
+- [Agile Explorer – IBM SkillsBuild](https://www.credly.com/org/ibm-skillsbuild/badge/agile-explorer)
+- [Cybersecurity Fundamentals – IBM SkillsBuild](https://www.credly.com/org/ibm-skillsbuild/badge/cybersecurity-fundamentals)
+
 <!--
 **ODA669/ODA669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
