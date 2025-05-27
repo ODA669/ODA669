@@ -1,17 +1,17 @@
   💻💻✨✨✨¡Hello ✨✨✨💻💻
 
 
-Completed training as an Analyst Programmer with 2 years of professional experience. I possess strong analytical, problem-solving, and logical reasoning skills. I have an innate sense of adaptability, a talent for research, creativity, attention to detail, and a positive attitude that helps me build strong relationships with teammates and colleagues. I am also deeply interested in new technologies and lifelong learning.
+Completed training as an Analyst Programmer with 3 years of professional experience. I possess strong analytical, problem-solving, and logical reasoning skills. I have an innate sense of adaptability, a talent for research, creativity, attention to detail, and a positive attitude that helps me build strong relationships with teammates and colleagues. I am also deeply interested in new technologies and lifelong learning.
 Currently, I am studying Frontend Web Development at Cégep de Trois-Rivières.
 
 ⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
 
-Diplômé en tant qu'Analyste Programmeur avec 2 ans d'expérience professionnelle. Je possède de solides compétences en analyse, résolution de problèmes et raisonnement logique. J'ai un grand sens de l'adaptabilité, un esprit de recherche, de la créativité, de la rigueur, ainsi qu'une attitude positive qui me permet de nouer de bonnes relations avec mes collègues et collaborateurs. Je suis également passionné par les nouvelles technologies et la formation continue.
+Diplômé en tant qu'Analyste Programmeur avec 3 ans d'expérience professionnelle. Je possède de solides compétences en analyse, résolution de problèmes et raisonnement logique. J'ai un grand sens de l'adaptabilité, un esprit de recherche, de la créativité, de la rigueur, ainsi qu'une attitude positive qui me permet de nouer de bonnes relations avec mes collègues et collaborateurs. Je suis également passionné par les nouvelles technologies et la formation continue.
 Actuellement, j'étudie le développement web Frontend au Cégep de Trois-Rivières.
 
 ⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
 
-Formación completada como Programador Analista, con 2 años de experiencia profesional. Poseo sólidas habilidades analíticas, de resolución de problemas y razonamiento lógico. Tengo una gran capacidad de adaptación, aptitud para la investigación, creatividad, atención al detalle y una actitud positiva que me permite establecer buenas relaciones con compañeros y colegas. También tengo un profundo interés por las nuevas tecnologías y el aprendizaje continuo.
+Formación completada como Programador Analista, con 3 años de experiencia profesional. Poseo sólidas habilidades analíticas, de resolución de problemas y razonamiento lógico. Tengo una gran capacidad de adaptación, aptitud para la investigación, creatividad, atención al detalle y una actitud positiva que me permite establecer buenas relaciones con compañeros y colegas. También tengo un profundo interés por las nuevas tecnologías y el aprendizaje continuo.
 Actualmente estoy estudiando Desarrollo Web Frontend en el Cégep de Trois-Rivières.
 
 ⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
