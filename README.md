@@ -1,4 +1,4 @@
-¡Hello  💻💻✨✨✨! I'm Odair Martinez ✨✨✨💻💻
+  💻💻✨✨✨¡Hello ✨✨✨💻💻
 
 
 Completed training as an Analyst Programmer with 2 years of professional experience. I possess strong analytical, problem-solving, and logical reasoning skills. I have an innate sense of adaptability, a talent for research, creativity, attention to detail, and a positive attitude that helps me build strong relationships with teammates and colleagues. I am also deeply interested in new technologies and lifelong learning.
